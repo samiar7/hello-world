@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GIT
 
-Git exploration
+Git exploration team
